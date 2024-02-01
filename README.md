@@ -7,5 +7,7 @@ You can test this with:
 ```
 stack ghci
 
-zhangShasha testGraph0 testGraph1
+ghci> zhangShasha testGraph0 testGraph1
+8
+ghci>
 ```
