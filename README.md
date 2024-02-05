@@ -3,7 +3,7 @@
 This library is a translation of https://github.com/ijkilchenko/ZhangShasha ,
 inspired also by https://jelv.is/blog/Lazy-Dynamic-Programming/
 
-You can test this with:
+You can it this with:
 ```
 stack ghci
 
