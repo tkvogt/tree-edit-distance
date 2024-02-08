@@ -11,7 +11,7 @@ Portability :  POSIX
 -}
 module TreeEditDistance
     ( editDistance, zhangShasha, addPostOrderIndexing, addLeftMosts, leftMostNodes, keyRoots, dEdge, extractNodes, fromAdj, show',
-      AGraph, Label, EdgeLabel, EdgeAttribute
+      AGraph, Label(Label), EdgeLabel, EdgeAttribute
     ) where
 
 import           Data.List (groupBy, sortBy, foldl')
